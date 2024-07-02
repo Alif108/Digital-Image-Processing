@@ -1,0 +1,1 @@
+This repository contains the lectures, resources and codes to the course I took on Digital Image Processing.
